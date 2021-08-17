@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2bab2c942af543bf7c0782f3fc576339",
+    "content-hash": "1bad14fb3c67fad98162bbf9de593269",
     "packages": [
         {
             "name": "graze/data-structure",
